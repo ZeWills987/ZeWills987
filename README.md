@@ -7,7 +7,7 @@
 - 🎓 BUT Informatique — IUT de Bordeaux
 - 🎵 Fondateur de **Mkzik**, une plateforme de streaming musical
 - 🌍 Passionné par la culture polynésienne & les nouvelles technos
-- 💼 En recherche d'alternance / stage en développement web
+- 💼 Embauché chez APTORIEL
 
 ## 🛠️ Stack technique
 
