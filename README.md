@@ -1,29 +1,100 @@
-# William TCHANG 👨‍💻
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=220&section=header&text=William%20TCHANG&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Kaoha%20nui%20%F0%9F%8C%BA%20%E2%80%94%20Full-Stack%20Developer%20%7C%20Bordeaux%2C%20France&descAlignY=58&descSize=17" width="100%"/>
+</div>
 
-> Diplômé du BUT Informatique · Dev Full-Stack · Bordeaux, France 🇫🇷
+<div align="center">
 
-## 🚀 À propos de moi
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0f?style=for-the-badge&logo=safari&logoColor=white)](https://portfolio.william-tchang.fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/william-tchang-raimana)
+[![Mkzik](https://img.shields.io/badge/🎵_Mkzik-7c3aed?style=for-the-badge&logoColor=white)](https://github.com/YOUR_USERNAME/mkzik)
 
-- 🎓 BUT Informatique — IUT de Bordeaux
-- 🎵 Fondateur de **Mkzik**, une plateforme de streaming musical
-- 🌍 Passionné par la culture polynésienne & les nouvelles technos
-- 💼 Embauché chez APTORIEL
+</div>
+
+---
+
+## 🌺 À propos de moi
+
+Je suis développeur full-stack avec des racines **marquisanes** 🇵🇫, basé à **Bordeaux**. Passionné de musique, de photo et d'architecture logicielle, je construis des produits où la technique rencontre l'identité culturelle.
+
+- 🎓 **BUT Informatique** — IUT de Bordeaux · Parcours Réalisation d'Applications
+- 🏢 **Apprenti développeur** chez **Aptoriel** (fintech SEPA) via Epitech Pré-MSc
+- 🎵 Fondateur de **Mkzik** — plateforme de streaming musical full-stack
+- 🏄 Pratiquant de **va'a** (pirogue polynésienne) dans le Gironde
+- 🎮 Fan de Genshin Impact & des motifs **patutiki** marquisans
+- 📸 Passionné de photographie et d'esthétique visuelle
+
+---
 
 ## 🛠️ Stack technique
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+**Frontend**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+**Backend**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-## 📌 Projet phare
+**Bases de données**
 
-| Projet | Description | Stack |
-|--------|-------------|-------|
-| 🎵 [Mkzik](#) | Plateforme de streaming musical | Symfony · React · AWS S3 · Python |
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📊 Stats GitHub
+---
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=radical&count_private=true)
+## 🚀 Projet phare
+
+<table>
+  <tr>
+    <td width="60px" align="center">🎵</td>
+    <td>
+      <strong><a href="https://github.com/YOUR_USERNAME/mkzik">Mkzik</a></strong><br/>
+      Plateforme de streaming musical full-stack avec moteur de recommandation hybride (content-based + transitions de sessions), intégration YouTube/SoundCloud via yt-dlp, système pay-to-unlock avec Stripe, streaming sécurisé S3, et app mobile Flutter.<br/>
+      <br/>
+      <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🔭 En ce moment
+
+- 🏗️ Développement d'une solution de validation de paiements SEPA chez **Aptoriel** (Java · Hibernate · PostgreSQL)
+- 🔒 Hardening sécurité & CI/CD multiplateforme pour **Mkzik** (GitHub Actions · Android APK · iOS IPA)
+- 🎓 Préparation du **Pré-MSc Pro-ed** à Epitech Bordeaux
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0a0a0f&title_color=a855f7&icon_color=ec4899&text_color=ffffff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=a855f7&text_color=ffffff&langs_count=8)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer" width="100%"/>
+</div>
