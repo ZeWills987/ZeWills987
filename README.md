@@ -14,14 +14,13 @@
 
 ## 🌺 À propos de moi
 
-Je suis développeur full-stack avec des racines **marquisanes** 🇵🇫, basé à **Bordeaux**. Passionné de musique, de photo et d'architecture logicielle, je construis des produits où la technique rencontre l'identité culturelle.
+Je suis développeur full-stack **Marquisien** 🇵🇫, basé à **Bordeaux**. Passionné de musique et d'architecture logicielle, je conçoit des solutions qui change la vie des gens.
 
 - 🎓 **BUT Informatique** — IUT de Bordeaux · Parcours Réalisation d'Applications
 - 🏢 **Apprenti développeur** chez **Aptoriel** (fintech SEPA) via Epitech Pré-MSc
 - 🎵 Fondateur de **Mkzik** — plateforme de streaming musical full-stack
-- 🏄 Pratiquant de **va'a** (pirogue polynésienne) dans le Gironde
-- 🎮 Fan de Genshin Impact & des motifs **patutiki** marquisans
-- 📸 Passionné de photographie et d'esthétique visuelle
+-  Pratiquant de **Musculation** (pirogue polynésienne) dans le Gironde
+- 🎮 Fan d'Inazuma Eleven & ma culture 
 
 ---
 
@@ -61,7 +60,7 @@ Je suis développeur full-stack avec des racines **marquisanes** 🇵🇫, basé
   <tr>
     <td width="60px" align="center">🎵</td>
     <td>
-      <strong><a href="https://github.com//mkzik">Mkzik</a></strong><br/>
+      <strong><a href="https://github.com/ZeWills987/mkzik-app">Mkzik</a></strong><br/>
       Plateforme de streaming musical full-stack, streaming sécurisé S3, et app mobile Flutter.<br/>
       <br/>
       <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white"/>
