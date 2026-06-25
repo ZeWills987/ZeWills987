@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0f?style=for-the-badge&logo=safari&logoColor=white)](https://portfolio.william-tchang.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/william-tchang-raimana)
-[![Mkzik](https://img.shields.io/badge/🎵_Mkzik-7c3aed?style=for-the-badge&logoColor=white)](https://github.com/YOUR_USERNAME/mkzik)
+[![Mkzik](https://img.shields.io/badge/🎵_Mkzik-7c3aed?style=for-the-badge&logoColor=white)](https://github.com/ZeWills987/mkzik_app)
 
 </div>
 
@@ -61,8 +61,8 @@ Je suis développeur full-stack avec des racines **marquisanes** 🇵🇫, basé
   <tr>
     <td width="60px" align="center">🎵</td>
     <td>
-      <strong><a href="https://github.com/YOUR_USERNAME/mkzik">Mkzik</a></strong><br/>
-      Plateforme de streaming musical full-stack avec moteur de recommandation hybride (content-based + transitions de sessions), intégration YouTube/SoundCloud via yt-dlp, système pay-to-unlock avec Stripe, streaming sécurisé S3, et app mobile Flutter.<br/>
+      <strong><a href="https://github.com//mkzik">Mkzik</a></strong><br/>
+      Plateforme de streaming musical full-stack, streaming sécurisé S3, et app mobile Flutter.<br/>
       <br/>
       <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -77,8 +77,8 @@ Je suis développeur full-stack avec des racines **marquisanes** 🇵🇫, basé
 
 ## 🔭 En ce moment
 
-- 🏗️ Développement d'une solution de validation de paiements SEPA chez **Aptoriel** (Java · Hibernate · PostgreSQL)
-- 🔒 Hardening sécurité & CI/CD multiplateforme pour **Mkzik** (GitHub Actions · Android APK · iOS IPA)
+- 🏗️ Développement d'une solution de validation de paiements SEPA chez **Aptoriel**
+- 🔒 Développement d'une solutions de suggestions audio multiplateforme pour **Mkzik**
 - 🎓 Préparation du **Pré-MSc Pro-ed** à Epitech Bordeaux
 
 ---
@@ -87,9 +87,9 @@ Je suis développeur full-stack avec des racines **marquisanes** 🇵🇫, basé
 
 <div align="center">
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0a0a0f&title_color=a855f7&icon_color=ec4899&text_color=ffffff)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=ZeWills987&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0a0a0f&title_color=a855f7&icon_color=ec4899&text_color=ffffff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=a855f7&text_color=ffffff&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeWills987&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=a855f7&text_color=ffffff&langs_count=8)
 
 </div>
 
