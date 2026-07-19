@@ -54,23 +54,16 @@ Je suis développeur full-stack **Marquisien** 🇵🇫, basé à **Bordeaux**. 
 
 ---
 
-## 🚀 Projet phare
+## 🚀 Projets
 
-<table>
-  <tr>
-    <td width="60px" align="center">🎵</td>
-    <td>
-      <strong><a href="https://github.com/ZeWills987/mkzik_app">Mkzik</a></strong><br/>
-      Plateforme de streaming musical full-stack, streaming sécurisé S3, et app mobile Flutter.<br/>
-      <br/>
-      <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+[![Mkzik](https://github-readme-stats-steel-rho-48.vercel.app/api/pin/?username=ZeWills987&repo=mkzik_app&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=a855f7&icon_color=ec4899&text_color=ffffff)](https://github.com/ZeWills987/mkzik_app)
+[![audiotwin](https://github-readme-stats-steel-rho-48.vercel.app/api/pin/?username=ZeWills987&repo=audiotwin&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=a855f7&icon_color=ec4899&text_color=ffffff)](https://github.com/ZeWills987/audiotwin)
+[![gpuoffload](https://github-readme-stats-steel-rho-48.vercel.app/api/pin/?username=ZeWills987&repo=gpuoffload&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=a855f7&icon_color=ec4899&text_color=ffffff)](https://github.com/ZeWills987/gpuoffload)
+[![vocalcoverage](https://github-readme-stats-steel-rho-48.vercel.app/api/pin/?username=ZeWills987&repo=vocalcoverage&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=a855f7&icon_color=ec4899&text_color=ffffff)](https://github.com/ZeWills987/vocalcoverage)
+
+</div>
 
 ---
 
@@ -89,6 +82,12 @@ Je suis développeur full-stack **Marquisien** 🇵🇫, basé à **Bordeaux**. 
 ![Stats GitHub](https://github-readme-stats-steel-rho-48.vercel.app/api?username=ZeWills987&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0a0a0f&title_color=a855f7&icon_color=ec4899&text_color=ffffff)
 
 ![Top Langs](https://github-readme-stats-steel-rho-48.vercel.app/api/top-langs/?username=ZeWills987&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=a855f7&text_color=ffffff&langs_count=8)
+
+</div>
+
+<div align="center">
+
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=ZeWills987&theme=tokyo-night&bg_color=0a0a0f&color=a855f7&line=ec4899&point=ffffff&hide_border=true)
 
 </div>
 
