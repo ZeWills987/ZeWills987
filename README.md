@@ -14,13 +14,13 @@
 
 ## 🌺 À propos de moi
 
-Je suis développeur full-stack **Marquisien** 🇵🇫, basé à **Bordeaux**. Passionné de musique et d'architecture logicielle, je conçoit des solutions qui change la vie des gens.
+Je suis développeur full-stack **Marquisien** 🇵🇫, basé à **Bordeaux**. Passionné de musique et d'architecture logicielle, je conçois des solutions qui changent la vie des gens.
 
 - 🎓 **BUT Informatique** — IUT de Bordeaux · Parcours Réalisation d'Applications
 - 🏢 **Apprenti développeur** chez **Aptoriel** (fintech SEPA) via Epitech Pré-MSc
 - 🎵 Fondateur de **Mkzik** — plateforme de streaming musical full-stack
--  Pratiquant de **Musculation** (pirogue polynésienne) dans le Gironde
-- 🎮 Fan d'Inazuma Eleven & ma culture 
+- 🛶 Pratiquant de **Va'a** (pirogue polynésienne) en Gironde
+- 🎮 Fan de Genshin Impact & de ma culture
 
 ---
 
@@ -60,7 +60,7 @@ Je suis développeur full-stack **Marquisien** 🇵🇫, basé à **Bordeaux**. 
   <tr>
     <td width="60px" align="center">🎵</td>
     <td>
-      <strong><a href="https://github.com/ZeWills987/mkzik-app">Mkzik</a></strong><br/>
+      <strong><a href="https://github.com/ZeWills987/mkzik_app">Mkzik</a></strong><br/>
       Plateforme de streaming musical full-stack, streaming sécurisé S3, et app mobile Flutter.<br/>
       <br/>
       <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white"/>
@@ -77,8 +77,8 @@ Je suis développeur full-stack **Marquisien** 🇵🇫, basé à **Bordeaux**. 
 ## 🔭 En ce moment
 
 - 🏗️ Développement d'une solution de validation de paiements SEPA chez **Aptoriel**
-- 🔒 Développement d'une solutions de suggestions audio multiplateforme pour **Mkzik**
-- 🎓 Préparation du **Pré-MSc Pro-ed** à Epitech Bordeaux
+- 🔒 Développement d'une solution de suggestions audio multiplateforme pour **Mkzik**
+- 🎓 Préparation du **Pré-MSc** à Epitech Bordeaux
 
 ---
 
@@ -86,9 +86,9 @@ Je suis développeur full-stack **Marquisien** 🇵🇫, basé à **Bordeaux**. 
 
 <div align="center">
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=ZeWills987&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0a0a0f&title_color=a855f7&icon_color=ec4899&text_color=ffffff)
+![Stats GitHub](https://github-readme-stats-steel-rho-48.vercel.app/api?username=ZeWills987&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0a0a0f&title_color=a855f7&icon_color=ec4899&text_color=ffffff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeWills987&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=a855f7&text_color=ffffff&langs_count=8)
+![Top Langs](https://github-readme-stats-steel-rho-48.vercel.app/api/top-langs/?username=ZeWills987&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=a855f7&text_color=ffffff&langs_count=8)
 
 </div>
 
